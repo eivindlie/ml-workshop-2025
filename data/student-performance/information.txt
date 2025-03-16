@@ -1,0 +1,2 @@
+Source: https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression
+License: Anyone is free to share and use the data.
